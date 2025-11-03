@@ -11,6 +11,7 @@ BLUE = "\033[94m"
 
 REPLACEMENTS = {
     "—": "-",       #The dreaded emdash gets converted into a regular dash
+    "–": "-",       #Different emdash
     "’": "'",
     "“": '"',
     "”": '"',
